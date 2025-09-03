@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: white;
+}
+
+.covid-top-section {
+    padding: 15px;
+}
+
+.covid-top-section-heading {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 600;
+    color: #323f4b;
+}
+
+.covid-top-section-image {
+    height: 90px;
+
+}
+
+.covid-button {
+    font-size: 13px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 90px;
+}
+
+.covid-card2 {
+    background-color: #0967d219;
+    padding: 13px;
+    border-radius: 20px;
+    margin: 10px;
+
+}
+
+.card2-image {
+    height: 50px;
+    margin: 10px;
+}
+
+.text-card2-main-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.text-card2-paragraph {
+    color: #707070;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.Symptoms-main-heading {
+    color: #707070;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.covid-card3 {
+    padding: 5px;
+}
+
+.covid-card3-card1 {
+    background-color: #3ebd93;
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 7px;
+
+}
+
+.covid-card3-card1-image {
+    height: 45px;
+    margin: 5px;
+}
+
+.covid-card3-card1-main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.covid-card3-card2 {
+    background-color: #e668a7;
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 7px;
+
+}
+
+.covid-card3-card3 {
+    background-color: #a368fc;
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 7px;
+
+}
+
+.videos-main-heading {
+    color: #707070;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.covid-card4 {
+    background-color: #e12d3919;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 10px;
+
+}
+
+.card4-image {
+    height: 50px;
+    margin: 5px;
+}
+
+.card4-text-Contianer {
+    padding: 10px;
+}
+
+.card4-text-Contianer-heading {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 600;
+    color: #323f4b;
+}
+
+.card4-text-Contianer-paragraph {
+    color: #707070;
+    font-family: "Roboto";
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.videoButton {
+    font-size: 13px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 90px;
+}
